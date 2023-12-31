@@ -33,7 +33,7 @@
 <table width="100%">
   <tr>
     <td align="left" valign="top">
-      <strong>Data Architectures & Modeling</strong><br>
+      <strong>Data Architectures</strong><br>
       Bill Inmon<br>
       Ralph Kimball<br>
       Data Lake<br>
