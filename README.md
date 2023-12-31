@@ -42,15 +42,15 @@
     </td>
     <td align="CENTER" valign="top">
       <strong>Database</strong><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width='90' height='90'/>
-      <img src="https://www.collibra.com/content/dam/web-resources/en-global/collibra-com/logos/c/cassandra-color.svg" width='90' height='90' />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width='90' height='85'/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width='90' height='85' />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width='110' height='90'/>
+      <img src="https://www.collibra.com/content/dam/web-resources/en-global/collibra-com/logos/c/cassandra-color.svg" width='110' height='95' />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width='110' height='90'/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width='110' height='90' />
     </td>
 <td align="CENTER" valign="top">
       <strong>Cloud</strong><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width='100' height='80'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width='100' height='80'/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width='120' height='100'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width='120' height='100'/>
     </td>
   </tr>
 </table>
