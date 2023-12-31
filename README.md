@@ -46,7 +46,6 @@
       <img src="https://www.collibra.com/content/dam/web-resources/en-global/collibra-com/logos/c/cassandra-color.svg" width='100' height='90' />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width='100' height='70'/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width='100' height='70' />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" width='100' height='70' />
     </td>
 <td align="CENTER" valign="top">
       <strong>Cloud</strong><br>
