@@ -46,7 +46,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" width='100' height='70' />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width='120' height='70'/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width='120' height='70' />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height='70' />
           
     </td>
 <td align="CENTER" valign="top">
