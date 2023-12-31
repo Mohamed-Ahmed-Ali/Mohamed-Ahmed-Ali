@@ -106,23 +106,23 @@
       <strong>Programming Languages</strong><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width='120' height='90'/>
 
-<img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" width='65' height='65'/>
+<img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" width='60' />
     </td>
     <td align="CENTER" valign="top">
       <strong>Data Analysis</strong><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width='110' height='90'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width='100' height='90'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width='120' height='120'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width='120' height='90'/>
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxoZarxnf57JiCLmYmyyAGO95CUu8veOsSASVzJ2v9H-FNhM5mIuK4QlLqHASd0k1kPn4&usqp=CAU" width='109' height='90'/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxoZarxnf57JiCLmYmyyAGO95CUu8veOsSASVzJ2v9H-FNhM5mIuK4QlLqHASd0k1kPn4&usqp=CAU" width='120' height='90'/>
     </td>
 <td align="CENTER" valign="top">
       <strong>Machine Learning</strong><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width='90' height='90'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width='150' height='80'/>
           
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width='100' height='90'/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width='120' height='90'/>
     </td>
   </tr>
 </table>
