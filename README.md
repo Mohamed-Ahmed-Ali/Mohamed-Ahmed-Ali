@@ -104,9 +104,9 @@
   <tr>
     <td align="CENTER" valign="top">
       <strong>Programming Languages</strong><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width='90' height='90'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width='120' height='90'/>
 
-<img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" width='65' height='90'/>
+<img src="https://seeklogo.com/images/A/azure-sql-database-logo-D7A32C9CD9-seeklogo.com.png" width='90' height='65'/>
     </td>
     <td align="CENTER" valign="top">
       <strong>Data Analysis</strong><br>
