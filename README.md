@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/vdBBqkN/photo-2023-05-20-15-54-53.png](https://wallpapercave.com/wp/wp12177305.jpg)
+![MasterHead](https://wallpapercave.com/wp/wp12177305.jpg)
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
 <h3 align="center">A passionate Data Engineer from Egypt</h3>
 
