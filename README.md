@@ -77,8 +77,8 @@
     </td>
     <td align="CENTER" valign="top">
       <strong>ETL & Workflow</strong><br>
-<img src="https://www.informatec.com/sites/default/files/inline-images/ssis-logo.png" width='120' ' height='45'/>
 
+<img src="https://www.informatec.com/sites/default/files/inline-images/ssis-logo.png" width='120' height='45' />
 <img src="https://www.apache.org/logos/res/airflow/default.png" width='120' height='45' />
 
 <img src="https://www.apache.org/logos/res/nifi/default.png" width='120' height='45'/>
