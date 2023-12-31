@@ -46,6 +46,8 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" width='100' height='70' />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width='120' height='70'/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width='120' height='70' />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
+          
     </td>
 <td align="CENTER" valign="top">
       <strong>Cloud</strong><br>
@@ -76,9 +78,9 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Apache_HBase_Logo.svg" width='100' height='50'/>
     </td>
     <td align="CENTER" valign="top">
-      <strong>ETL & Workflow</strong><br>
-
-<img src="https://www.informatec.com/sites/default/files/inline-images/ssis-logo.png" width='120' height='45' />
+       <strong>ETL & Workflow</strong><br>
+<img src="https://www.collibra.com/content/dam/web-resources/en-global/collibra-com/logos/m/microsoft-ssis-color.png"  height='60'/>
+      
 <img src="https://www.apache.org/logos/res/airflow/default.png" width='120' height='45' />
 
 <img src="https://www.apache.org/logos/res/nifi/default.png" width='120' height='45'/>
