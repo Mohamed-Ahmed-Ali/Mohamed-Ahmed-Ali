@@ -1,7 +1,7 @@
-[![MasterHead]([https://ibb.co/pKPPwdH](https://i.ibb.co/vdBBqkN/photo-2023-05-20-15-54-53.png))]
+[![MasterHead](https://i.ibb.co/vdBBqkN/photo-2023-05-20-15-54-53.png)]
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
 <h3 align="center">A passionate Data Engineer from Egypt</h3>
-<img align="right" alt="avater" width="400" src="https://i.ibb.co/Q6wVfXB/avatar.png">
+<img align="right" alt="avater" width="300" src="https://i.ibb.co/Q6wVfXB/avatar.png">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-ahmed-ali&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-ahmed-ali" /> </p>
