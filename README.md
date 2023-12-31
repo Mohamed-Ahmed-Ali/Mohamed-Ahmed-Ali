@@ -1,7 +1,7 @@
 ![MasterHead](https://i.ibb.co/vdBBqkN/photo-2023-05-20-15-54-53.png)
 <h1 align="center">Hi 👋, I'm Mohamed Ali</h1>
 <h3 align="center">A passionate Data Engineer from Egypt</h3>
-<img align="right" alt="avater" width="300" src="https://i.ibb.co/Q6wVfXB/avatar.png">
+
 
 
 <div align="center">
@@ -10,7 +10,7 @@
        alt="snake" /></a>
 </div>
 
-
+<img align="right" alt="avater" width="300" src="https://i.ibb.co/Q6wVfXB/avatar.png">
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [AWS: COVID-19 Full Stack Data Project for Analysis](https://github.com/Mohamed-Ahmed-Ali/AWS-COVID-19-Full-Stack-Data-Project-for-Analysis)
