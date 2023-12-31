@@ -42,7 +42,7 @@
     </td>
     <td align="CENTER" valign="top">
       <strong>Database</strong><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width='90' height='70'/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width='110' height='80'/>
       <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" width='100' height='70' />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width='120' height='70'/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width='120' height='70' />
