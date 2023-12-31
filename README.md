@@ -43,9 +43,9 @@
     <td align="CENTER" valign="top">
       <strong>Database</strong><br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width='100' height='95'/>
-      <img src="https://www.collibra.com/content/dam/web-resources/en-global/collibra-com/logos/c/cassandra-color.svg" width='110' height='95' />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width='110' height='80'/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width='110' height='80' />
+      <img src="https://www.collibra.com/content/dam/web-resources/en-global/collibra-com/logos/c/cassandra-color.svg" width='100' height='95' />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width='100' height='80'/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width='100' height='80' />
     </td>
 <td align="CENTER" valign="top">
       <strong>Cloud</strong><br>
@@ -119,10 +119,10 @@
 <td align="CENTER" valign="top">
       <strong>Machine Learning</strong><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width='80'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width='90'/>
           
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width='90' />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width='100' />
     </td>
   </tr>
 </table>
@@ -134,18 +134,18 @@
   <tr>
     <td align="CENTER" valign="top">
       <strong>CI/CD & Virtualization</strong><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width='80' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width='80' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width='80' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width='80' />
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" width='105' height='80' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width='100' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width='100' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width='100' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width='100' />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Vmware.svg" width='105' height='100' />
     </td>
 <td align="CENTER" valign="top">
       <strong>Operating Systems</strong><br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg" width='80' />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='80' />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  width='80' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original-wordmark.svg" width='100' />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width='100' />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"  width='100' />
     </td>
   </tr>
 </table>
