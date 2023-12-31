@@ -49,8 +49,8 @@
     </td>
 <td align="CENTER" valign="top">
       <strong>Cloud</strong><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width='120' height='80'/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width='120' height='80'/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width='120' height='120'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width='120' height='120'/>
     </td>
   </tr>
 </table>
